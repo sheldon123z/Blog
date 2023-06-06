@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '82a440a9d5af404883d2476d39f5e2b0',
+  rootNotionPageId: '7766995a39f54deaa1fc8728d854c341',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sheldon的blog',
-  domain: 'https://sheldon123z.notion.site/sheldon123z/3522bf4531e5479199e02775b9c58075?v=82a440a9d5af404883d2476d39f5e2b0',
+  domain: 'https://www.notion.so/sheldon123z/Next-js-Notion-Starter-Kit-Template-7766995a39f54deaa1fc8728d854c341?pvs=4',
   author: 'Sheldon Zheng',
 
   // open graph metadata (optional)
